@@ -38,12 +38,8 @@ A company wants to gain insights into its sales performance and key metrics to i
 ### 4.	Product Performance:
 -	Analysis of top 5 Profit and Loss Products guides product management decisions, focusing on promoting profitable products and addressing issues with low-performing products.
 
-## Conclusion
-This visualization file showcases the actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
-
-
 ### 5.	Regional Sales Patterns:
 -	The Map Plot visualizes sales per Region, enabling geographic analysis and identification of regions with high or low sales performance, helping in strategic allocation of resources and marketing efforts.
 
-
-Overall, this dashboard provides actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
+## Conclusion
+This visualization file showcases the actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
